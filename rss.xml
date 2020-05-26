@@ -14,7 +14,7 @@
     <itunes:block>no</itunes:block>
     <itunes:image href="https://jfproductions.podomatic.com/images/default/podcast-3-3000.png"/>
     <itunes:author>Jaime</itunes:author>
-    <itunes:summary>Un programa donde conversaremos de temas de actualidad. Cada episodio est&#225; dedicado a un tema en particular a discutir. El objetivo: proporcionar m&#225;s preguntas que respuestas.</itunes:summary>
+    <itunes:summary>Un programa donde conversaremos de temas de actualidad. Cada episodio, dedicado a un tema en particular a discutir. El objetivo: proporcionar mas preguntas que respuestas.</itunes:summary>
     <itunes:category text="Society &amp; Culture"></itunes:category>
     <atom:link href="https://jfproductions.podomatic.com/rss2.xml" rel="self" type="application/rss+xml"/>
     <item>
@@ -28,7 +28,7 @@
       <link>https://www.podomatic.com/podcasts/jfproductions/episodes/2020-05-23T20_01_44-07_00</link>
       <dc:creator>Jaime</dc:creator>
       <itunes:keywords></itunes:keywords>
-      <enclosure url="https://jfproductions.podomatic.com/enclosure/2020-05-23T20_01_44-07_00.mp3" length="247711" type="audio/mpeg"/>
+      <enclosure url="https://podcaststorage2112.blob.core.windows.net/one/piloto.m4a" length="247711" type="audio/mpeg"/>
       <itunes:duration>20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:order>1</itunes:order>
